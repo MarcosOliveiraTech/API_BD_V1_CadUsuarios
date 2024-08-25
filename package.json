@@ -1,0 +1,16 @@
+{
+  "name": "api-e-node",
+  "version": "1.0.0",
+  "type":"module",
+  "description": "Teste de API para cadastro de usuários em um banco de dados",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Marcos Lucas da Silva Oliveira - Molagre",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
