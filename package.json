@@ -1,7 +1,7 @@
 {
   "name": "api-e-node",
   "version": "1.0.0",
-  "type":"module",
+  "type": "module",
   "description": "Teste de API para cadastro de usuários em um banco de dados",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,10 @@
   "author": "Marcos Lucas da Silva Oliveira - Molagre",
   "license": "ISC",
   "dependencies": {
+    "@prisma/client": "^5.18.0",
     "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "prisma": "^5.18.0"
   }
 }
